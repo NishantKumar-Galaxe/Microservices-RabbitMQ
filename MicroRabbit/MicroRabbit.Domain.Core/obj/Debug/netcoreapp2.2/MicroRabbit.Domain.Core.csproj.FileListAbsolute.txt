@@ -1,7 +1,6 @@
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.deps.json
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
-D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.AssemblyInfo.cs
