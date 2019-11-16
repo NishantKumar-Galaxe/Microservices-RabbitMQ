@@ -1,0 +1,8 @@
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.deps.json
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.dll
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.AssemblyInfo.cs
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.dll
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.pdb
