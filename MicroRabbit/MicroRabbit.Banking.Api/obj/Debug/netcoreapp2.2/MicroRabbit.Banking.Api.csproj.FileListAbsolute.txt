@@ -12,3 +12,16 @@ D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\obj\De
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.RazorTargetAssemblyInfo.cache
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.dll
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.dll
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.dll
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.dll
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IOC.dll
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IOC.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CopyComplete

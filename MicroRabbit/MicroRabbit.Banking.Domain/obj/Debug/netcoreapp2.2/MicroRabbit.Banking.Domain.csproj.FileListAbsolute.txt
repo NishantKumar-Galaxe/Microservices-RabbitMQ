@@ -6,3 +6,4 @@ D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Domain\obj
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.AssemblyInfo.cs
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
 D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb
+D:\Nishant\Learn\Microservices-Rqueue\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
